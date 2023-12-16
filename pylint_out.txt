@@ -1,0 +1,22 @@
+************* Module compare_averages_of_list
+compare_averages_of_list.py:18:16: C0303: Trailing whitespace (trailing-whitespace)
+compare_averages_of_list.py:29:0: C0325: Unnecessary parens after 'if' keyword (superfluous-parens)
+compare_averages_of_list.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+compare_averages_of_list.py:25:0: C0116: Missing function or method docstring (missing-function-docstring)
+compare_averages_of_list.py:27:4: W0602: Using global for 'msgs' but no assignment is done (global-variable-not-assigned)
+
+-------------------------------------------------------------------
+Your code has been rated at 7.37/10 (previous run: 7.37/10, +0.00)
+
+
+************* Module compare_averages_of_list
+compare_averages_of_list.py:25:16: C0303: Trailing whitespace (trailing-whitespace)
+compare_averages_of_list.py:41:4: W0602: Using global for 'msgs' but no assignment is done (global-variable-not-assigned)
+
+------------------------------------------------------------------
+Your code has been rated at 8.95/10 (previous run: 7.37/10, +1.58)
+
+
+************* Module compare_averages_of_list
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 8.95/10, +1.05)
