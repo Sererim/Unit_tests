@@ -1,0 +1,7 @@
+tests/test_compare.py::test_average PASSED                               [ 25%]
+tests/test_compare.py::test_compare_message_one PASSED                   [ 50%]
+tests/test_compare.py::test_compare_message_two PASSED                   [ 75%]
+tests/test_compare.py::test_compare_message_three PASSED                 [100%]
+
+============================== 4 passed in 0.06s ==============================
+Finished running tests!
