@@ -1,0 +1,9 @@
+---------- coverage: platform win32, python 3.11.6-final-0 -----------
+Name                              Stmts   Miss  Cover
+-----------------------------------------------------
+src\__init__.py                       0      0   100%
+src\compare_averages_of_list.py      14      0   100%
+tests\__init__.py                     0      0   100%
+tests\test_compare.py                11      0   100%
+-----------------------------------------------------
+TOTAL                                25      0   100%
