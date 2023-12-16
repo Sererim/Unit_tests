@@ -1,5 +1,8 @@
 from src.compare_averages_of_list import (
-    compare, find_average, msgs)
+    compare,
+    find_average, 
+    msgs
+)
 
 def test_average() -> None:
     """

@@ -43,8 +43,8 @@ def compare(lst_1: list[int], lst_2: list[int]) -> str:
         message = 2
     return msgs[message]
 
-if __name__ == "__main__":
-    print(compare([1, 2, 3, 4], [1, 2, 3]))
-    print(compare([1, 2, 3, 4], [1, 2, 8]))
-    print(compare([1, 2, 3], [1, 2, 3]))
+# if __name__ == "__main__":
+#     print(compare([1, 2, 3, 4], [1, 2, 3]))
+#     print(compare([1, 2, 3, 4], [1, 2, 8]))
+#     print(compare([1, 2, 3], [1, 2, 3]))
     
